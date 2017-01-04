@@ -36,7 +36,7 @@ In case it's helpful, here's some other tips for you:
 
 - It would be great if you could have this done within a week. If that's not doable for you, let us know early.
 
-- We don't know how long this should take you, but we're not looking to reward the person that spends the most time on it. We believe in worker smarter not harder.
+- We don't know how long this should take you, but we're not looking to reward the person that spends the most time on it. We believe in working smarter not harder.
 
 ## Summary
 
