@@ -12,24 +12,35 @@ Some important facts about the data:
 
 - The accounts we've selected have been using Cliniko for numerous years.
 
-- It contains the last 12 months of appointments for these accounts.
+- There are two files, one has the last 12 months of appointments for these accounts. The other is the patients from those appointments.
 
 - It contains approximately 795,000 appointment records.
 
-- It is just a dump of our appointments table in the database (but identifiable information removed).
+- It is just a dump of our appointments and patients table in the database for these accounts (but identifiable information removed). It is missing a decent amount of information, particularly in the patients one, for privacy.
 
 ## Field descriptions
 
 Some fields are obvious, some less so. Here's descriptions for the latter:
 
+### Appointments data
+
 | Field | Description |
 | --- | --- |
+| Account ID | Each Cliniko customer has one account |
+| Business ID | An account could have multiple locations/businesses |
 | SMS reminder sent | List all new or modified files |
 | Email reminder sent | List all new or modified files |
 | Confirmation email sent at | List all new or modified files |
 | Patient arrived | True means they arrived, false does not mean they didn't |
 | Patient did not arrive | True means they didn't show up, false does not mean they did |
 | Cancellation reason | 10 = better, 20 = worse, 30 = sick, 40 = away, 50 = other, 60 = work |
+
+### Patients data
+
+| Field | Description |
+| --- | --- |
+| Reminder type | 0 = none, 10 = SMS, 20 = email, 30 = sms & email |
+| Sex | 0 = not known, 1 = male, 2 = female, 9 = not applicable |
 
 ## What to do with it
 
