@@ -12,9 +12,7 @@ Some important facts about the data:
 
 - The accounts we've selected have been using Cliniko for numerous years.
 
-- There are two files, one has the last 12 months of appointments for these accounts. The other is the patients from those appointments.
-
-- It contains approximately 795,000 appointment records.
+- There are two files, one has the last 12 months of appointments (795,000 records) for these accounts. The other is the patients from those appointments.
 
 - It is just a dump of our appointments and patients table in the database for these accounts (but identifiable information removed). It is missing a decent amount of information, particularly in the patients one, for privacy.
 
