@@ -61,7 +61,7 @@ Thanks for giving this a go, we can't wait to see what you come up with.
 
 ## Is this test ok?
 
-So we haven't hired a Data scientist before, so this is our first time making a test for one. If this test sucks, and it's not going to let you showcase your skills, let us know. We'll try sort something out.
+So we haven't hired a Data scientist before, so this is our first time making a test for one. If this test sucks, and it's not going to let you showcase your skills, let us know. We'll try to sort something out.
 
 
 
