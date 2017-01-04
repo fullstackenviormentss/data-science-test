@@ -14,6 +14,8 @@ Some important tidbits about the data:
 
 - It contains the last 12 months of appointments for these accounts.
 
+- It contains approximately 795,000 appointment records.
+
 - It is just a dump of our appointments table in the database (but identifiable information removed).
 
 ## What to do with it
