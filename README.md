@@ -6,7 +6,7 @@ By the time you're reading this, you would have already received a data set from
 
 ## The data
 
-Some important tidbits about the data:
+Some important facts about the data:
 
 - We've taken data from 166 accounts in Cliniko.
 
