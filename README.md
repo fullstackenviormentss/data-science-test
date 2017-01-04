@@ -18,6 +18,19 @@ Some important facts about the data:
 
 - It is just a dump of our appointments table in the database (but identifiable information removed).
 
+## Field descriptions
+
+Some fields are obvious, some less so. Here's descriptions for the latter:
+
+| Field | Description |
+| --- | --- |
+| SMS reminder sent | List all new or modified files |
+| Email reminder sent | List all new or modified files |
+| Confirmation email sent at | List all new or modified files |
+| Patient arrived | True means they arrived, false does not mean they didn't |
+| Patient did not arrive | True means they didn't show up, false does not mean they did |
+| Cancellation reason | 10 = better, 20 = worse, 30 = sick, 40 = away, 50 = other, 60 = work |
+
 ## What to do with it
 
 We've tried to keep this task as similar to working here as possible. With that in mind, we think you'll know better than us what can be achieved with this. So there's no "thing" we want you to find or do. We want you to explore it as you would if working here.
@@ -45,6 +58,10 @@ We want to see what it's like to work with you, and the sort of quality of work 
 We will be making a decision based on these tests, so do give it your best.
 
 Thanks for giving this a go, we can't wait to see what you come up with.
+
+## Is this test ok?
+
+So we haven't hired a Data scientist before, so this is our first time making a test for one. If this test sucks, and it's not going to let you showcase your skills, let us know. We'll try sort something out.
 
 
 
