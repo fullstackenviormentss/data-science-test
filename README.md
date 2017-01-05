@@ -52,7 +52,7 @@ Some important facts about the data:
 
 ## Field descriptions
 
-Some fields are obvious, some less so. Here's descriptions for the latter:
+Some fields are obvious, some less so. Here are descriptions for the latter:
 
 ### Appointments data
 
