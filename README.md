@@ -6,7 +6,7 @@ By the time you're reading this, you would have already received a data set from
 
 ## What to do
 
-We've tried to keep this task as similar to working here as possible. With that in mind, we think you'll know better than us what can be achieved with this. So there's no specific "thing" we want you to find or do. We want you to explore it as you would if working here.
+We've tried to keep this task as similar to working here as possible. With that in mind, we think you'll know better than us what can be achieved with this. So there's no specific "thing" we want you to find or do. We want you to explore it as you would if you were working here.
 
 We'd like you to analyse it and give us some insights. The insights should be useful and actionable in some way.
 
