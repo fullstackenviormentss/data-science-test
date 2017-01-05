@@ -1,12 +1,12 @@
 # Data science task
 
-So as the heading alludes to, this page has details of the task we'd like you to complete for the Data science job offering.
+This page has details of the task we'd like you to complete for the data science job offering.
 
-By the time you're reading this, you would have already received a data set from us. It's actual appointment data (sanitized) from Cliniko.
+By the time you're reading this, you would have already received a data set from us. It's actual appointment and patient data (sanitized) from Cliniko.
 
 ## What to do
 
-We've tried to keep this task as similar to working here as possible. With that in mind, we think you'll know better than us what can be achieved with this. So there's no "thing" we want you to find or do. We want you to explore it as you would if working here.
+We've tried to keep this task as similar to working here as possible. With that in mind, we think you'll know better than us what can be achieved with this. So there's no specific "thing" we want you to find or do. We want you to explore it as you would if working here.
 
 We'd like you to analyse it and give us some insights. The insights should be useful and actionable in some way.
 
