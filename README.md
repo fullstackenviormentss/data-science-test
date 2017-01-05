@@ -26,19 +26,17 @@ Some fields are obvious, some less so. Here's descriptions for the latter:
 | --- | --- |
 | Account ID | Each Cliniko customer has one account |
 | Business ID | An account could have multiple locations/businesses |
-| SMS reminder sent | List all new or modified files |
-| Email reminder sent | List all new or modified files |
-| Confirmation email sent at | List all new or modified files |
+| SMS reminder sent | A reminder SMS message was sent shortly before the appointment occurred |
+| Email reminder sent | A reminder email was sent shortly before the appointment occurred |
+| Confirmation email sent at | A confirmation email/calendar file was sent when the appointment was booked |
 | Patient arrived | True means they arrived, false does not mean they didn't |
 | Patient did not arrive | True means they didn't show up, false does not mean they did |
-| Cancellation reason | 10 = better, 20 = worse, 30 = sick, 40 = away, 50 = other, 60 = work |
 
 ### Patients data
 
 | Field | Description |
 | --- | --- |
-| Reminder type | 0 = none, 10 = SMS, 20 = email, 30 = sms & email |
-| Sex | 0 = not known, 1 = male, 2 = female, 9 = not applicable |
+| Reminder type | This is for reminders that go out just before the appointment is due to occur |
 
 ## What to do with it
 
