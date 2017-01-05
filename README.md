@@ -22,13 +22,13 @@ Also, we don't know how long this should take you, but we're not looking to rewa
 
 In case it's helpful, here's some other tips for you:
 
-- You can ask questions. This isn't a "bonus points if they ask questions" thing, just we'll answer what we can if you need us. Like we would when working together.
+- You can ask questions. This isn't a "bonus points if they ask questions" thing, just that we'll answer what we can if you need us. Like we would when working together.
 
 - You can request more information/data, but we'd rather you didn't. If you really need more, let us know, but there'd need to be a compelling reason for it.
 
 ## Summary
 
-We want to see what it's like to work with you, and the sort of quality of work you'd produce. This is a chance for both sides to see how that is.
+We want to see what it's like to work with you, and the quality of work you'd produce. This is a chance for both sides to see how that is.
 
 We will be making a decision based on these tests, so do give it your best.
 
@@ -36,7 +36,7 @@ Thanks for giving this a go, we can't wait to see what you come up with.
 
 ## Is this test ok?
 
-So we haven't hired a Data scientist before, so this is our first time making a test for one. If this test sucks, and it's not going to let you showcase your skills, let us know. We'll try to sort something out.
+We haven't hired a Data scientist before, so this is our first time making a test for one. If this test sucks, and it's not going to let you showcase your skills, let us know. We'll try to sort something out.
 
 # About the data
 
@@ -48,7 +48,7 @@ Some important facts about the data:
 
 - There are two files, one has the last 12 months of appointments (795,165 records) for these accounts. The other is the patients (65,534 records) from those appointments.
 
-- It is just a dump of our appointments and patients table in the database for these accounts (but identifiable information removed). It is missing a decent amount of information, particularly in the patients one, for privacy.
+- It is just a dump of our appointments and patients table in the database for these accounts (but identifiable information removed). It is missing a decent amount of information, particularly in the patient data, for privacy.
 
 ## Field descriptions
 
